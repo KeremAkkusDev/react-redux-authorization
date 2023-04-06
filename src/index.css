@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.dark{
+  background-color: #383838;
+  color: bisque;
+  height: 200px;
+  font-size: 28px;
+}
+
+.light{
+  background-color: bisque;
+  color: #383838;
+  height: 200px;
+  font-size: 28px;
+}
+
+.routes{
+  height: 400px;
+  background-color: #999994;
+  color: bisque;
+  font-size: 36px;
+}
+
+.active{
+  color:cornflowerblue;
+}
+
+a{
+  color:lightblue;
+  text-decoration: none;
+  margin-left:15px;
+}
+
+h3{
+  margin:0;
+  padding: 0;
+}
